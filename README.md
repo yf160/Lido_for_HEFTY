@@ -2,4 +2,4 @@
 
 This is the Lido for HEFTY.
 
-JetDat.dat is not uploaded.
+JetData.dat is not uploaded.
