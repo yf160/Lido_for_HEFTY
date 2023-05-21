@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libSTATIC.a CMakeFiles/STATIC.dir/jet_finding.cpp.o "CMakeFiles/STATIC.dir/Users/yufu/Duke-Lido/src/lorentz.cpp.o" "CMakeFiles/STATIC.dir/Users/yufu/Duke-Lido/src/simpleLogger.cpp.o" "CMakeFiles/STATIC.dir/Users/yufu/Duke-Lido/src/hcubature.cpp.o" "CMakeFiles/STATIC.dir/Users/yufu/Duke-Lido/src/TableBase.cpp.o"
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libSTATIC.a
